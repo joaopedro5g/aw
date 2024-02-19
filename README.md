@@ -15,3 +15,5 @@ Aqui vai um resumo do que o Anchor Workers faz:
 - **Isolamento de Contexto com Docker Engine**: Além disso, ele faz a ligação dos Docker Engine, o que permite isolar os códigos e runtimes das linguagens em contextos separados, mantendo tudo organizado e seguro.
 
 Resumindo, o Anchor Workers é tipo o super-herói da AIWS, garantindo que tudo funcione às mil maravilhas, mesmo quando as coisas ficam um pouco malucas.
+
+_esse documento foi criado e gerado por AI(ChatGPT)_
